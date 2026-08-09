@@ -1,6 +1,6 @@
 # hacker-typer
 
-My interpretation of "hacker-typer" in multiple programming languages. Influenced by www.hackertyper.net
+My interpretation of "hacker-typer" in multiple programming languages. Influenced by https://hackertyper.net
 
 For my style, I'd rather have this running in the UNIX command line terminal.
 
